@@ -1,0 +1,15 @@
+1) Display dates of Ramazan and Ganesh Chaturthi dates for 10 years.
+
+2) Perform arithmetic calculations(Note: Dont use any control statements)
+
+3)Program to convert figures to words up to 99 crores.
+
+Group Work(2-3 members):
+
+1)Design a rummy game, the number of players in the game should be dynamic.
+
+
+
+Day 1 Exercise:
+
+1)Create demo 2 class with main function, which will add the numbers and give the sum(number will be given in command line arg).
